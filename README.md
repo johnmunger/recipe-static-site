@@ -1,0 +1,1 @@
+# recipe-static-site
